@@ -1,4 +1,4 @@
-# immigration_canada_analysis
+- IMMIGRATION TO CANADA ANALYSIS
 
 This is a practice analysis using data about immigration to Canada. This dataset was usedby IBM in their data analytics with Python course.
 
@@ -12,4 +12,4 @@ We can also notice that in the Americas, there are many Americans and some peopl
 from South America.
 
 
-We start the projct by importing the necessary libraries for calculations and plotting. Then we write the necessary code to visualize the data.
+We start the project by importing the necessary libraries for calculations and plotting. Then we write the necessary code to visualize the data.
